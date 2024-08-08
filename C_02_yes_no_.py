@@ -11,7 +11,8 @@ def yes_no(question):
             print("You did not choose a valid response")
 
 
-# Main routine
+# Main routine=## )
 while True:
     want_instructions = yes_no("Do you want to read the instructions? ")
-    print(f"You chose{want_instructions}")
+    print(f"You chose {want_instructions}")
+
