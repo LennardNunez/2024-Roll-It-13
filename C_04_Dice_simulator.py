@@ -10,7 +10,7 @@ def roll_die():
 
 # Main Routine starts here
 
-for item in range(0, 10):
+for item in range(0, 5):
     user_score = 0
     double_score = "no"
 
